@@ -5,13 +5,14 @@
 #pragma GCC visibility push(default)
 #endif
 
+#include <stdlib.h>
+#include <stdint.h>
+#include <stdbool.h>
+
 #ifdef __cplusplus
 extern "C" {
 #endif
 
-#include <stdlib.h>
-#include <stdint.h>
-#include <stdbool.h>
 
 /****************************/
 /* Section - ABI Versioning */
