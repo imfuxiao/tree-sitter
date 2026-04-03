@@ -3,6 +3,7 @@
 #include "./language.c"
 #include "./lexer.c"
 #include "./node.c"
+#include "./parser.h"
 #include "./parser.c"
 #include "./point.c"
 #include "./query.c"
